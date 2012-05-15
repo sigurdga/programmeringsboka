@@ -26,8 +26,13 @@ Del 1: Interaktiv Python
 Del 2: Med editor
 - Enkel teori om objekter med egenskaper
 - Finn igjen objektene interaktivt
+- Enkle funksjoner
+- Flere funksjoner (er jo viktig, men har ingen planer)
+- Rekursivitet?
 - Kjør et større program
 ...
+
+_Kunne vel egentlig ha stoppet her, og jobbet dypere i materien_
 
 Del 3A: Grafisk
 - Hva er GTK (eller QT?)
