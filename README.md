@@ -18,6 +18,7 @@ Disposisjon
 
 Del 1: Interaktiv Python
 - Intro til interaktivt Python-skall (Ipython)
+- Turtle?
 - Print og variabler
 - Legg inn feil og se hva som skjer (gjennomgående gjennom hele boka at vi ser på forskjellige feil)
 - If og else
